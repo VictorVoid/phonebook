@@ -1,0 +1,1 @@
+Agenda developed for studies with swing.
